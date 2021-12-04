@@ -40,17 +40,17 @@
   - Used them to Integrate into my app "Password Manager" and makes it usable to all users and scalable.
 ## Integretion in Local App "Password Manager":
 
-  ![Capture13](https://user-images.githubusercontent.com/95350651/144708617-33055521-2f2b-42de-a387-61066e2c9d88.PNG)
-  
-  ![Capture8](https://user-images.githubusercontent.com/95350651/144708619-c67809fd-77c0-49ef-a82c-c96fed44f8ca.PNG)
-  
-  ![Capture9](https://user-images.githubusercontent.com/95350651/144708620-086d8c28-5148-4b48-ad4a-9594d9d57fe3.PNG)
-  
-  ![Capture10](https://user-images.githubusercontent.com/95350651/144708621-2e8ed640-93ca-4b11-8161-9359d4ea34a1.PNG)
-  
-  ![Capture11](https://user-images.githubusercontent.com/95350651/144708622-865c656d-523e-4b75-90ef-645c904ad404.PNG)
-  
-  ![Capture12](https://user-images.githubusercontent.com/95350651/144708623-f5a10b5a-65ca-4c84-a92b-3cc7b2d1a2a6.PNG)
+    ![Capture13](https://user-images.githubusercontent.com/95350651/144708617-33055521-2f2b-42de-a387-61066e2c9d88.PNG)
+
+    ![Capture8](https://user-images.githubusercontent.com/95350651/144708619-c67809fd-77c0-49ef-a82c-c96fed44f8ca.PNG)
+
+    ![Capture9](https://user-images.githubusercontent.com/95350651/144708620-086d8c28-5148-4b48-ad4a-9594d9d57fe3.PNG)
+
+    ![Capture10](https://user-images.githubusercontent.com/95350651/144708621-2e8ed640-93ca-4b11-8161-9359d4ea34a1.PNG)
+
+    ![Capture11](https://user-images.githubusercontent.com/95350651/144708622-865c656d-523e-4b75-90ef-645c904ad404.PNG)
+
+    ![Capture12](https://user-images.githubusercontent.com/95350651/144708623-f5a10b5a-65ca-4c84-a92b-3cc7b2d1a2a6.PNG)
 
 
 # All details are present in attached screenshots.
