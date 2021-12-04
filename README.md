@@ -1,4 +1,7 @@
 # Deploy scalable NoSQL database cluster and Used in my software "Password Manager".
+
+## How to Run:
+    - Download the Password Manager.py file in your PC and just run it.
   
   
 ## Requirements
