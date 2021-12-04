@@ -40,9 +40,15 @@
   - Used them to Integrate into my app "Password Manager" and makes it usable to all users and scalable.
 ## Integretion in My App "Password Manager":
 
-   
+  ![Capture13](https://user-images.githubusercontent.com/95350651/144709327-0f5a0e46-2746-4949-b74b-8ff1c1e7f572.PNG)
+  ![Capture8](https://user-images.githubusercontent.com/95350651/144709330-a4696bdb-88a9-43ec-b585-7fd64f8a3066.PNG)
+  ![Capture9](https://user-images.githubusercontent.com/95350651/144709331-4d5855b0-2195-4747-b31d-d2bbbf01ceab.PNG)
+  ![Capture10](https://user-images.githubusercontent.com/95350651/144709333-5bb1a7e6-150d-4bbd-99a2-ecb0d0220d2d.PNG)
+  ![Capture11](https://user-images.githubusercontent.com/95350651/144709334-bbd3236d-3464-4822-afca-8cb9ae475dab.PNG)
+  ![Capture12](https://user-images.githubusercontent.com/95350651/144709335-392e528e-ade5-415e-ab7e-45002c13a93e.PNG)
 
-# All details are present in attached screenshots.
+
+# All details are present in attached screenshots .
 
   
   
